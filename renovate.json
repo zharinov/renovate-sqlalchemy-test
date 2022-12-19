@@ -1,0 +1,9 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "pip_requirements": {
+        "fileMatch": [
+           "(^|/)requirements-uppercase\\.txt$",
+           "(^|/)requirements\\.txt$"
+        ]
+    }
+}
